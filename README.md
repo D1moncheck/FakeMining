@@ -1,0 +1,2 @@
+# FakeMining
+Fake Miner
